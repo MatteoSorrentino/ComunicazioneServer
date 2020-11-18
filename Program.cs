@@ -115,7 +115,6 @@ namespace ComunicazioneServer
                 }
                 // Termina il programma
             }
-
         }
     }
 }
